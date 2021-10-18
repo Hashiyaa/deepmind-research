@@ -6,4 +6,4 @@ dm-sonnet<2
 tensorflow_probability<0.9
 sklearn
 dm-tree
-matplotlib
+matplotlib=3.1.3
